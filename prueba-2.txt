@@ -1,6 +1,6 @@
 hola hola
 
-modificadooooo 
+modificadooooo --> aquí va a haber conflicto
 
 
 Archivo 2
