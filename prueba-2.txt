@@ -1,10 +1,6 @@
-hola hola
+ hola hola
 
-<<<<<<< HEAD
-modificadooooo --> aquí va a haber conflicto
-=======
-modificadooooo --> aquí no va a haber conflicto
->>>>>>> conflicto
+Estos cambios se hacen directamente desde github
 
 
 Archivo 2
