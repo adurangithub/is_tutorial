@@ -1,20 +1,20 @@
-## (ANVERSO)
+### Mostrar Animal
+__ID:__ 004  
+__Breve descripción:__ El sistema muestra un animal.
 
-__ID:__ 004                 __Mostrar animal__
-___
+__Actores principales:__  Usuario.  
+__Actores secundarios:__  Cliente.
 
-Como usuario quiero poder visualizar un animal del zoológico para
-poder ver su información.
+__Precondiciones:__
+  1. El Animal debe existir en el sistema.
 
+__Flujo principal:__
+  1. El caso de uso empieza cuando el sistema necesita mostrar un animal.
+  2. El sistema recoge los datos del animal.
 
-  __Prioridad:__ 3  
+__Postcondiciones:__  
+  - El sistema muestra el animal por pantalla.
 
-___
+__Flujos alternativos:__
 
-## (REVERSO)
-___
-
-- Quiero poder visualizar todos los datos de un animal.
-- Se debe mostrar claramente si el animal está en peligro de extinción o no.
-
-___
+  2.a. Si no existe el Animal, el sistema muestra un mensaje de error.
